@@ -44,16 +44,40 @@ Press Enter to continue...========================================
 5. Delete Student
 6. Logout
 
+Enter Choice: Enter Roll: Enter Name (no spaces): Enter Marks: 
+Student Added Successfully!
+
+Press Enter to continue...========================================
+            ADMIN MENU
+========================================
+
+1. Add Student
+2. Display Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Logout
+
+Enter Choice: Enter Roll: Enter Name (no spaces): Enter Marks: 
+Student Added Successfully!
+
+Press Enter to continue...========================================
+            ADMIN MENU
+========================================
+
+1. Add Student
+2. Display Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Logout
+
 Enter Choice: 
 ===== STUDENT LIST =====
-1010  TariniBhima  100.00
-1008  Karan  77.00
-1009  Jayasri  99.00
-1011  Sanjana  98.00
-1010  TariniBhima  100.00
-1008  Karan  77.00
-1010  TariniBhima  100.00
-1008  Karan  77.00
+1000  TariniBhima  100.00
+1001  Jayasri  99.00
+1002  Sanjana  98.00
+1003  Mouli  97.00
 
 Press Enter to continue...========================================
             ADMIN MENU
